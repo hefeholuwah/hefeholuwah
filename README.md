@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Raleway&pause=1000&color=96FF20&width=435&lines=Hi+I'm+Ifeoluwa+Adefioye;You+can+also+call+me+GANDALF%F0%9F%A4%A5;I'm+a+tech+enthusiast+%7B%7D%F0%9F%92%BB;Kindly+follow+me%F0%9F%98%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Raleway&pause=1000&color=96FF20&width=435&lines=Hi+I'm+Ifeoluwa+Adefioye;You+can+also+call+me+GANDALF%F0%9F%A4%A5;I'm+a+Solution+Architect+%7B%7D%F0%9F%92%BB;Kindly+follow+me%F0%9F%98%80)](https://git.io/typing-svg)
 
 
 ![ifeoluwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=hefeholuwah&show_icons=true&theme=dark)
