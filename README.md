@@ -4,7 +4,7 @@
 ![ifeoluwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=hefeholuwah&show_icons=true&theme=dark)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hefeholuwah&hide=css,html,javascript)](https://github.com/hefeholuwah/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hefeholuwah&hide=css,html,javascript,c)](https://github.com/hefeholuwah/github-readme-stats)
 
 
 
